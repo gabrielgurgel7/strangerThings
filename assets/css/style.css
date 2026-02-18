@@ -180,6 +180,7 @@ section {
 
 /* SEÇAO 02 | CIDADES */
 .secaoCidade {
+  background-color: #0c0102;
   flex-direction: column;
   position: relative;
 
