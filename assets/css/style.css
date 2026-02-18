@@ -69,7 +69,7 @@ button {
 
 /* BG MONSTRO | */
 .bgMonstro {
-  background-image: url("../imgs/webp/bg-sec2.webp");
+  background-image: url(assets/imgs/webp/bg-sec2.webp);
   background-position: center;
   background-size: cover;
   z-index: 2;
@@ -195,7 +195,7 @@ section {
     justify-content: space-between;
 
     .card {
-      background-image: url("assets/imgs/webp/card1.webp");
+      background-image: url(assets/imgs/webp/card1.webp);
       width: 31%;
       aspect-ratio: 16/9;
       background-size: cover;
@@ -207,11 +207,11 @@ section {
     }
 
     .card:nth-child(2) {
-      background-image: url("assets/imgs/webp/card2.webp");
+      background-image: url(assets/imgs/webp/card2.webp);
     }
 
     .card:nth-child(3) {
-      background-image: url("assets/imgs/webp/card3.webp");
+      background-image: url(assets/imgs/webp/card3.webp);
     }
   }
 }
@@ -261,7 +261,7 @@ footer {
   width: 100%;
   display: flex;
   flex-direction: column;
-  background-image: url("assets/imgs/webp/bg-footer.webp");
+  background-image: url(assets/imgs/webp/bg-footer.webp);
   background-position: center;
   background-size: cover;
   z-index: -1;
